@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="coolweather"/>
+    <version value="1.0"/>
+    <list>
+        <mapping class="com.example.zyl.coolweather.db.Province"/>
+        <mapping class="com.example.zyl.coolweather.db.City"/>
+        <mapping class="com.example.zyl.coolweather.db.County"/>
+
+    </list>
+</litepal>
